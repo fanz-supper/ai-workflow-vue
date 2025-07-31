@@ -1,4 +1,4 @@
-
+# The framework used ： vue + vueflow + element plus
 # effect picture
 ![flow_1](https://github.com/user-attachments/assets/ceb57a4e-b52f-4d65-89ec-c142618d0b88)
 
