@@ -1,3 +1,14 @@
+
+# effect picture
+![flow_1](https://github.com/user-attachments/assets/ceb57a4e-b52f-4d65-89ec-c142618d0b88)
+
+![flow_2](https://github.com/user-attachments/assets/edf19ec1-4f87-4fa9-8fa5-fca60eca1856)
+![flow_3](https://github.com/user-attachments/assets/a971426b-c871-4875-b036-8abffa2c77b7)
+
+![flow_4](https://github.com/user-attachments/assets/988ab4fd-0f0f-4208-b7ce-f6b873a372bd)
+
+> Related java project : ai-workflow
+
 # ai-workflow-vue
 
 This template should help get you started developing with Vue 3 in Vite.
